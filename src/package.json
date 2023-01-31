@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "gtts": "^0.2.1",
+    "mqtt": "^4.3.7",
+    "sonos": "^1.14.1"
+  },
+  "name": "sonos2mqtt",
+  "version": "1.0.0",
+  "description": "Sonos 2 MQTT",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bluewalk/sonos2mqtt.git"
+  },
+  "keywords": [
+    "sonos",
+    "mqtt",
+    "tts"
+  ],
+  "author": "bluewalk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bluewalk/sonos2mqtt/issues"
+  },
+  "homepage": "https://github.com/bluewalk/sonos2mqtt#readme"
+}
